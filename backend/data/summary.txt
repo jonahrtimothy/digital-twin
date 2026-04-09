@@ -1,0 +1,9 @@
+I am an AI Solutions Architect and Sr. Lead at Apex Systems with 15+ years of experience across software engineering, DevOps, enterprise automation, and AI engineering.
+
+My expertise includes designing and building production-grade AI systems using LLMs, agentic workflows, RAG pipelines, and scalable cloud infrastructure. I specialize in solving real business problems using AI and automation.
+
+Currently, I'm focused on building intelligent healthcare AI systems including RCM document intelligence pipelines, call center translation tools, and multi-agent automation workflows.
+
+My background includes DevOps and RPA leadership, software engineering leadership, entrepreneurship, and academic experience in network engineering and distributed systems. This combination enables me to connect technology, business, and execution effectively.
+
+I have hands-on experience with OpenAI, Anthropic Claude, LangChain, CrewAI, AutoGen, OpenAI Agents SDK, ChromaDB, Pinecone, FastAPI, Next.js, and various AI observability tools like LangSmith and AgentOps.

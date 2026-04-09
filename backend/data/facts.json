@@ -1,0 +1,23 @@
+{
+    "full_name": "Jonah Timothy",
+    "name": "Jonah",
+    "current_role": "Sr. Lead at Apex Systems & AI Solutions Architect",
+    "location": "Chennai, India",
+    "email": "jonah.r.timothy@gmail.com",
+    "linkedin": "linkedin.com/in/jonahrtimothy",
+    "specialties": [
+      "AI Engineering & LLM Applications",
+      "Healthcare AI & RCM Automation",
+      "Agentic AI Systems & Multi-Agent Workflows",
+      "RAG Systems & Vector Databases",
+      "Full-Stack Development with Next.js & FastAPI"
+    ],
+    "years_experience": 15,
+    "education": [
+      {
+        "degree": "Computer Science",
+        "institution": "University",
+        "year": "2010"
+      }
+    ]
+  }
